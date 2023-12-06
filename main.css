@@ -1,0 +1,43 @@
+img{
+    width: 100%;
+    min-width: auto;
+    padding: 10px;
+    padding-left: 0%;
+
+}
+.site{
+    background-color: #202020;
+}
+
+h1{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 4em;
+    text-align: center;
+    margin: 0%;
+}
+p{
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    background-color: black;
+    color: white;
+    font-size: 2em;
+    text-align: center;
+    padding: 30px;
+    margin: 15px 0;
+}
+h3{
+    color: white;
+    font-size: 2em;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+}
+.footer{
+    background-color: black;
+}
+html {
+    scroll-behavior: smooth;
+}
